@@ -1,5 +1,3 @@
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
 *.docx linguist-documentation=true
-
--- commit
