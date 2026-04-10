@@ -164,3 +164,4 @@ CREATE TABLE TB_MUSICO_TOCA_INSTRUMENTO(
     IdMusico number(5) NOT NULL,
     IdInstrumento number(5) NOT NULL
 );
+-- Commit de ajuste (reconhecer sql no git)
